@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Hrushikesh Kadam, fitness freek ,persuing my B.tech In computer engineering From Rscoe Tathawade.
-- 👀 I’m interested in Data Science, love to work on data and get meaningful insights from it.
-- 🌱 I’m currently  Specializating in Machine learning.
-- 💞️ I’m looking to collaborate with big Multinational companies which work with data.
-- 📫 How to reach me ... hrushikadam4141@gmail.com
+- 👋 Hi, I’m Hrushikesh Kadam, A software Engineer , fitness freek ,persuing my B.tech In computer engineering From Rscoe Tathawade.
+- I love to Work with React , JS.
+- Currently , I am exploring Full stack web development.
+- I am a Problem solver , I love to learn new things
+- 📫 How to reach me ... hrushikadam2003@gmail.com
 -                     ...7620545212
 - 
